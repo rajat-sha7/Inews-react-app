@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Budget and Lineker in focus on Kuenssberg show",
+    "description": "Guests to be quizzed on next week's budget, and the BBC's impartiality row, include the chancellor and ex-BBC executives.",
+    "url": "http://www.bbc.co.uk/news/live/uk-politics-64922187",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-03-12T08:37:16.7217745Z",
+    "content": "Welcome to our live and continuous coverage of todays big political interviews as we bring you text coverage, reaction and analysis from Sunday with Laura Kuenssberg.\r\nTodays programme will be lookin… [+665 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Watch: Saturday's day of football disruption... in 60 seconds",
+    "description": "A staff walk-out in support of Gary Lineker has heaped pressure on the BBC's boss.",
+    "url": "http://www.bbc.co.uk/news/uk-64929759",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17B52/production/_128960179_p0f883gl.jpg",
+    "publishedAt": "2023-03-12T07:37:14.8778261Z",
+    "content": "The BBC's director general Tim Davie says it has been a \"difficult day\" for the corporation after a Match of the Day staff walk-out led to the programme going ahead with no commentary and without pun… [+214 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mexico too dangerous for spring break, Texas officials say",
+    "description": "Texan officials say that cartel violence represents a significant threat for those entering Mexico.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-64929565",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE0A/production/_128943056_e4c416e2c230a0dfe2816bd941a12af748b7ea120_0_5500_36671000x667.jpg",
+    "publishedAt": "2023-03-12T03:52:17.8310147Z",
+    "content": "Media caption, Watch: The Mexican kidnapping saga explained in 80 seconds\r\nAuthorities in the US state of Texas have advised American citizens not travel to Mexico during the spring break holidays fo… [+2250 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Oscars 2023: Who will win and how to watch the ceremony",
+    "description": "Cate Blanchett is among nominees at the 95th Academy Awards, which will be hosted by Jimmy Kimmel.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-64857431",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2D2C/production/_128946511_hi082685188.jpg",
+    "publishedAt": "2023-03-12T00:07:15.3169856Z",
+    "content": "All eyes will be on Hollywood later to see whether Everything Everywhere All At Once can cap its extraordinary awards season by sweeping the Oscars.\r\nThe eccentric multiverse adventure is the favouri… [+8091 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Turkey earthquake: Istanbul residents fear homes will collapse",
+    "description": "After quakes in Turkey's south claimed 50,000 lives, the race is on to protect its biggest city.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64905649",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/20C0/production/_128948380_bbcnews20230228_5405.jpg",
+    "publishedAt": "2023-03-12T00:07:14.158317Z",
+    "content": "The crack in Mesut Muttaliboglu's bedroom wall is so wide, he can fit a car key into it. \r\nHe turns it sideways, and with a flick of his wrist, a large chunk of plaster flies off the wall and crashes… [+5444 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel: Protesters take to streets in one of the biggest protests in its history",
+    "description": "Protests against plans for a radical overhaul of the judicial system have been running for 10 weeks.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-64929563",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1731E/production/_128960059_mediaitem128960055.jpg",
+    "publishedAt": "2023-03-11T23:22:19.9249178Z",
+    "content": "Hundreds of thousands of Israelis have taken part in what some are calling the biggest protest in the country's history.\r\nProtests against government plans for a radical overhaul of the judicial syst… [+2574 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Mexican kidnapping saga explained in 80 seconds",
+    "description": "Two US citizens have been returned and the cartel handed over its own men. Here is what we know.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64753595",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6AF9/production/_128958372_p0f86k26.jpg",
+    "publishedAt": "2023-03-11T15:37:19.2895811Z",
+    "content": "The Mexican kidnapping saga explained in 80 seconds. Video, 00:01:20The Mexican kidnapping saga explained in 80 seconds"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US fight over abortion pills waged state by state",
+    "description": "Tussles in California, Texas and elsewhere over the drug mifepristone could affect millions of US women.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64883398",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A90A/production/_128747234_gettyimages-1241524154.jpg",
+    "publishedAt": "2023-03-11T13:37:22.7901166Z",
+    "content": "Anti-abortion activists won a historic victory at the Supreme Court last year, but the debate over one of America's most divisive issues is far from over, with focus now shifting to over-the-counter … [+6392 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Florida's battle over how race is taught in schools",
+    "description": "As Republicans ban \"woke ideology\" in classrooms, some teachers warn of a chilling effect on debate.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64815035",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3838/production/_128929341_bracy_resized_cb.jpg",
+    "publishedAt": "2023-03-11T02:07:20.213661Z",
+    "content": "Florida is leading a national movement by Republicans to reshape how and what schoolchildren are taught about race. Governor Ron DeSantis is spearheading the crackdown on what he calls \"woke\" ideolog… [+9464 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Atmospheric river to bring more snow, rain and floods to California",
+    "description": "The National Weather Service said lives and property are in \"great danger\".",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-64911139",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E6E1/production/_128950195_gettyimages-1247971121.jpg",
+    "publishedAt": "2023-03-10T15:07:24.0851482Z",
+    "content": "California is facing yet another dangerous winter storm, expected to bring heavy precipitation that could lead to flash flooding this weekend. \r\nThe extreme weather is the latest in a series of storm… [+2399 chars]"
+    }
+    ]
+    }
